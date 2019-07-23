@@ -336,6 +336,6 @@ Also, a listed repository should be deprecated if:
 <a name="operations-predict"></a>
 #### Prediction Management
 * [Dispute Prediction](https://github.com/zhanghaizhen/Financial-Service-Complaint-Management/tree/master/ipynb) - Financial service complaint management. 
-* [Fight Delay Prediction](https://github.com/cavaunpeu/flight-delays/blob/master/notebooks/flight-prediction.ipynb) - Transfer learning for flight-delay prediction via variational autoencoders in Keras.
+* [Flight Delay Prediction](https://github.com/cavaunpeu/flight-delays/blob/master/notebooks/flight-prediction.ipynb) - Transfer learning for flight-delay prediction via variational autoencoders in Keras.
 * [Electric Fault Prediction](https://github.com/susano0/Electric-Fault-Prediction/blob/master/Fault_pred.ipynb) - Predict tripping at grid stations by applying simple machine learning algorithms.
 * [Popularity Prediction in R](https://github.com/s-mishra/featuredriven-hawkes/blob/master/code/marked_hawkes_point_process.ipynb) - Marked Hawkes Point Process .
